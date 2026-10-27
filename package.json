@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kr-equities",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Korean equities MCP. Keyless, live per request.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-0558c03209513ff412ba7f77fe49425364093229174f0ecfedea8aa820c8e518",
-    "sourceCommit": "712a5e0171ea24483214329d0cd7efdfd9b80352"
+    "sourceHash": "v1-60acdb0f789c43da3db2fc52e2245e305b1ee670376ce8eaa9cc5167108f1c94",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
