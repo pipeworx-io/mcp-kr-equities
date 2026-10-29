@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/kr-equities",
   "title": "Kr Equities",
   "description": "Korean equities MCP. Keyless, live per request.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/kr-equities",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-kr-equities",
