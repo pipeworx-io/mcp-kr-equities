@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-kr-equities",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Korean equities MCP. Keyless, live per request.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "kr-equities",
     "gatewaySlug": "kr-equities",
-    "sourceHash": "v1-3376623f1a406aea68eb3ce5a4e8fa77b9211866388827cb0f5689e4edc9eb21",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-ee7aa624926b0c1b2e3190b1e0455da8a4850f7f71715c7589db2dbd4ebc718a",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
